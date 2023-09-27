@@ -2,6 +2,8 @@
 
 #### UI 给了这样的需求，也找了一些库但都不太符合，索性自己写了一个！
 
+#### GIF 示例 (不挂 VPN 查看不了 GIF)
+
 <div style="display: flex; justify-content: space-between;">
   <img src="gif/circle.gif" alt="示例1" width="30%"> 
 </div>
